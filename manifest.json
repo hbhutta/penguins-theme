@@ -12,7 +12,7 @@
       "theme_ntp_attribution" : "images/penguins.png"
     },
     "colors" : {
-      "frame" : [71, 105, 91],
+      "frame" : [71, 15, 91],
       "toolbar" : [207, 221, 192],
       "ntp_text" : [20, 40, 0],
       "ntp_link" : [36, 70, 0],
