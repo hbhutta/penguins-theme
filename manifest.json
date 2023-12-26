@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "penguins theme",
+  "description": "cute penguins theme",
+  "version": "1.0",
+  "theme": {
+    "images" : {
+      "theme_frame" : "images/penguins.png",
+      "theme_frame_overlay" : "images/penguins.png",
+      "theme_toolbar" : "images/penguins.png",
+      "theme_ntp_background" : "images/penguins.png",
+      "theme_ntp_attribution" : "images/penguins.png"
+    },
+    "colors" : {
+      "frame" : [71, 105, 91],
+      "toolbar" : [207, 221, 192],
+      "ntp_text" : [20, 40, 0],
+      "ntp_link" : [36, 70, 0],
+      "ntp_section" : [207, 221, 192],
+      "button_background" : [255, 255, 255]
+    },
+    "tints" : {
+      "buttons" : [0.33, 0.5, 0.47]
+    },
+    "properties" : {
+      "ntp_background_alignment" : "bottom"
+    }
+  }
+}
